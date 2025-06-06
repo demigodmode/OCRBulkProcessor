@@ -54,3 +54,7 @@ When processing completes, results are saved in the output folder. If concatenat
 - [PyPDF2](https://pypi.org/project/PyPDF2/) – optional merging for multi-page PDFs
 
 Ensure these packages are installed before running the application.
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
