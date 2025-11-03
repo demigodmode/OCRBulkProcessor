@@ -42,7 +42,7 @@ pip install pdf2image PyPDF2
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/OCRBulkProcessor.git
+   git clone https://github.com/demigodmode/OCRBulkProcessor.git
    cd OCRBulkProcessor
    ```
 
@@ -170,7 +170,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📝 License
 
-© 2025 by DemiGodMode. All rights reserved.
+This project is licensed under the Apache License 2.0.
 
 ## 🙏 Acknowledgments
 
