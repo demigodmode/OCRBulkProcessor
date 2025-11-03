@@ -18,6 +18,9 @@ build/
 # PyCharm IDE files
 .idea/
 
+# Claude Code configuration
+.claude/
+
 # Deprecated files
 ocr_tool.py
 
